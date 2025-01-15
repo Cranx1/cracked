@@ -1,4 +1,4 @@
-<h1 align="center">Surge.gg v1.2b source leak</h1>
+<h1 align="center">Surge.gg pre-v1.2b source leak</h1>
 
 **swimhub.xyz: https://swimhub.xyz/discord**
 
