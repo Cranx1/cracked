@@ -7,7 +7,12 @@
 Pasting from swimhub, logging ips, false claims against others and dev is autistic.
 
 # How To Use
-1. Run "script.lua"
+0. Make sure you are using AWP, Synapse Z, Nihon, Delta, Wave, Arceus X, Codex. (or any other good exec)
+1. Run
+```
+setfflag("DebugRunParallelLuaOnMainThread", "True")
+```
+2. Run "script.lua"
 
 
 # Credits
