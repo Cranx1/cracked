@@ -1,0 +1,15 @@
+<h1 align="center">Surge.gg v1.2b source leak</h1>
+
+**swimhub.xyz: https://swimhub.xyz/discord**
+
+# Why?
+
+Dev is autistic.
+
+# How To Use
+1. Run "script.lua"
+
+
+# Credits
+.__.freddy (1328809114322731080) - Making this script. </br>
+? - Providing the source.
