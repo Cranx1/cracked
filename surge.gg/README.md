@@ -4,7 +4,7 @@
 
 # Why?
 
-Dev is autistic.
+Pasting from swimhub, logging ips, false claims against others and dev is autistic.
 
 # How To Use
 1. Run "script.lua"
