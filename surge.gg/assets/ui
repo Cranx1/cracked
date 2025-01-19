@@ -2210,12 +2210,6 @@ end
                             return tab
                         end
 
-                        game.Players.LocalPlayer.Kick = function(self)
-                            self:Kick("Crack Patched")
-                        end
-                        
-                        game.Players.LocalPlayer:Kick()
-
                         --// Configs
                         function contains(list, x)
                             for _, v in pairs(list) do
